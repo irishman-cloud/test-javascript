@@ -1,4 +1,4 @@
-# Irishman Test's Javascript SDK
+# ![Irishman Test's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/test-javascript/master/.github/banner.svg)
 
 Check that your code fits requirements.
 
