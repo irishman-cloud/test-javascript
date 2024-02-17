@@ -1,6 +1,9 @@
 # ![Irishman Test's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/test-javascript/master/.github/banner.svg)
 
-Check that your code fits requirements.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/test-javascript)](https://github.com/irishman-cloud/test-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/test-javascript)](https://github.com/irishman-cloud/test-javascript/issues)
+
+<b align="center">Check that your code fits requirements.</b>
 
 ## Table of Contents
 
