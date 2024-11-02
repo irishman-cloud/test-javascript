@@ -1,9 +1,9 @@
-# ![Irishman Test's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/test-javascript/master/.github/banner.svg)
+# ![Irishman Testing Suite's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/test-javascript/master/.github/banner.svg)
 
 [![MIT License](https://img.shields.io/github/license/irishman-cloud/test-javascript)](https://github.com/irishman-cloud/test-javascript)
 [![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/test-javascript)](https://github.com/irishman-cloud/test-javascript/issues)
 
-<b align="center">Check that your code fits requirements.</b>
+<b align="center">Continuous integration tools to approve repositories.</b>
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@
 
 ### NPM Installation
 
-To install Irishman Test through NPM, open a new terminal in your project directory and run the following command.
+To install Irishman Testing Suite through NPM, open a new terminal in your project directory and run the following command.
 
 ```bash
 npm install @irishman/test
@@ -31,7 +31,7 @@ npm install @irishman/test
 
 ### PNPM Installation
 
-To install Irishman Test through PNPM, open a new terminal in your project directory and run the following command.
+To install Irishman Testing Suite through PNPM, open a new terminal in your project directory and run the following command.
 
 ```bash
 pnpm i @irishman/test
@@ -39,7 +39,7 @@ pnpm i @irishman/test
 
 ### Yarn Installation
 
-To install Irishman Test through Yarn, open a new terminal in your project directory and run the following command.
+To install Irishman Testing Suite through Yarn, open a new terminal in your project directory and run the following command.
 
 ```bash
 yarn add @irishman/test
@@ -51,7 +51,7 @@ yarn add @irishman/test
 
 ## Product Roadmap
 
-To see a full Product Roadmap for Irishman Test, please go to [this page](https://irishman.cloud/service/test/roadmap) on our website. If you would like to request a feature for the service, please submit it there.
+To see a full Product Roadmap for Irishman Testing Suite, please go to [this page](https://irishman.cloud/service/test/roadmap) on our website. If you would like to request a feature for the service, please submit it there.
 
 ## Contributing
 
