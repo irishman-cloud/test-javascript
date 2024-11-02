@@ -3,7 +3,7 @@
 [![MIT License](https://img.shields.io/github/license/irishman-cloud/test-javascript)](https://github.com/irishman-cloud/test-javascript)
 [![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/test-javascript)](https://github.com/irishman-cloud/test-javascript/issues)
 
-<b align="center">Continuous integration tools to approve repositories.</b>
+<b align="center">Continuous integration tools for push approval.</b>
 
 ## Table of Contents
 
